@@ -13,5 +13,7 @@ Instead of searching over vector representations, it relies on **structured docu
 - **PageIndex:** builds a **document tree**, lets the AI reason over the structure, and directly selects the most relevant nodes.  
   - No vectors, no approximate nearest neighbor search  
   - Preserves **document context and hierarchy** for more precise reasoning  
-  - Simplifies the pipeline for PDF and structured content QA
+  - Simplifies the pipeline for PDF and structured content 
+
+This is a test change for pull request.
 
